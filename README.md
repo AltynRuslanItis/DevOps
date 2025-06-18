@@ -117,3 +117,8 @@ Spring-demo_oris/
 
 
 ![image](https://github.com/user-attachments/assets/07d28a53-a0a3-4eb9-a773-89f9db7ac9d7)
+![image](https://github.com/user-attachments/assets/afa21079-e829-4fa3-82f2-3175beebcc75)
+
+* Логи:
+  ![image](https://github.com/user-attachments/assets/eb3bddd7-0631-4c23-936c-98ebb21e0331)
+
