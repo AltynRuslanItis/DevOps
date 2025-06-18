@@ -114,3 +114,6 @@ Spring-demo_oris/
 * Централизованное логирование в Loki.
 * Просмотр логов через Grafana.
 * Скрипты `build.sh` и `deploy.sh` с параметром `-t`.
+
+
+![image](https://github.com/user-attachments/assets/07d28a53-a0a3-4eb9-a773-89f9db7ac9d7)
