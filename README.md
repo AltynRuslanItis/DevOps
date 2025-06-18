@@ -92,8 +92,6 @@ Spring-demo_oris/
      ```
    * Нажать **Run query** или включить **Live** для потокового просмотра.
 
-### Скриншоты логов
-
 ![Promtail Logs](docs/screenshots/promtail.png)
 
 ![Grafana Logs](docs/screenshots/grafana_logs.png)
@@ -115,6 +113,7 @@ Spring-demo_oris/
 ![image](https://github.com/user-attachments/assets/07d28a53-a0a3-4eb9-a773-89f9db7ac9d7)
 
 
+### Скриншоты логов
 ![image](https://github.com/user-attachments/assets/afa21079-e829-4fa3-82f2-3175beebcc75)
 
 * Логи:
