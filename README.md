@@ -92,10 +92,6 @@ Spring-demo_oris/
      ```
    * Нажать **Run query** или включить **Live** для потокового просмотра.
 
-![Promtail Logs](docs/screenshots/promtail.png)
-
-![Grafana Logs](docs/screenshots/grafana_logs.png)
-
 ## Использование Minikube (опционально)
 
 > *Инструкция для Kubernetes-окружения с помощью Minikube будет добавлена позже.*
