@@ -71,10 +71,6 @@ Spring-demo_oris/
 
 Откройте браузер и перейдите на [http://localhost:8080](http://localhost:8080).
 
-### Пример скриншота работающего приложения
-
-![App Screenshot](docs/screenshots/app.png)
-
 ## Логирование и мониторинг
 
 Логи приложения пишутся в файл `./logs/spring-app.log`, затем Promtail подхватывает их и отправляет в Loki. В Grafana они отображаются в режиме реального времени.
@@ -115,8 +111,10 @@ Spring-demo_oris/
 * Просмотр логов через Grafana.
 * Скрипты `build.sh` и `deploy.sh` с параметром `-t`.
 
-
+### Пример скриншота работающего приложения
 ![image](https://github.com/user-attachments/assets/07d28a53-a0a3-4eb9-a773-89f9db7ac9d7)
+
+
 ![image](https://github.com/user-attachments/assets/afa21079-e829-4fa3-82f2-3175beebcc75)
 
 * Логи:
